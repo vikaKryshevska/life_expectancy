@@ -1,0 +1,5 @@
+Regression Report:
+Test MAE (Life expectancy): 0.9821590909090903 
+ Test MSE (Life expectancy): 3.239346613636363 
+ Test RMSE (Life expectancy): 1.7998184946367128 
+ Test R2 score (Life expectancy): 0.959604021276926
